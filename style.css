@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    text-align: center;
+    margin-top: 150px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: rgb(64, 49, 117);
+    color: #fff;
+}
+
+textarea{
+    margin-top: 30px;
+    padding: 10px 50px 100px 50px;
+    text-align: center;
+    border-radius: .1cm;
+    box-shadow: 0 0 20px rgb(0, 0, 0);
+    font-size: 18px;
+    background-color: beige;
+    font-weight: 1000;
+    resize: none;
+    outline: none;
+}
+
+p{
+    margin-top: 15px;
+    font-size: 18px;
+}
